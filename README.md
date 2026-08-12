@@ -1,3 +1,3 @@
 # 123
 
-Yanadoo game assets stored under `yanadoo-poop-dodge/`.
+Yanadoo poop dodge assets and app support files.
