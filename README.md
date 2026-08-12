@@ -1,3 +1,3 @@
-# Juni Defense
+# 123
 
-주니 디펜스 V18 FINAL 온라인 배포 저장소.
+Yanadoo game assets stored under `yanadoo-poop-dodge/`.
